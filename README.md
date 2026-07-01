@@ -19,6 +19,7 @@ Currently pursuing a B.Sc. in Computer Science and actively looking for **nation
 ![Poetry](https://img.shields.io/badge/Poetry-60A5FA?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
@@ -26,9 +27,9 @@ Currently pursuing a B.Sc. in Computer Science and actively looking for **nation
 
 | Project | Description | Stack |
 |---|---|---|
-| [Auth API] | REST API with user registration, JWT auth, refresh tokens, and token blacklist for secure logout | FastAPI · JWT · Poetry |
-| [Task Manager API] | Full CRUD REST API with JWT authentication and PostgreSQL integration | Django · DRF · PostgreSQL |
-| [Book Manager API] | CRUD API with Pydantic v2 validation, pagination, and HTTP Basic Auth | FastAPI · Pydantic v2 · Poetry |
+| Auth API | REST API with user registration, JWT auth, refresh tokens, and token blacklist for secure logout | FastAPI · JWT · Poetry |
+| Task Manager API | Full CRUD REST API with JWT authentication and PostgreSQL integration | Django · DRF · PostgreSQL |
+| Book Manager API | CRUD API with Pydantic v2 validation, pagination, and HTTP Basic Auth | FastAPI · Pydantic v2 · Poetry |
 
 ---
 

@@ -27,9 +27,9 @@ Currently pursuing a B.Sc. in Computer Science and actively looking for **nation
 
 | Project | Description | Stack |
 |---|---|---|
-| Auth API | REST API with user registration, JWT auth, refresh tokens, and token blacklist for secure logout | FastAPI · JWT · Poetry |
-| Task Manager API | Full CRUD REST API with JWT authentication and PostgreSQL integration | Django · DRF · PostgreSQL |
-| Book Manager API | CRUD API with Pydantic v2 validation, pagination, and HTTP Basic Auth | FastAPI · Pydantic v2 · Poetry |
+| [Personal Library](https://github.com/ilucasoliveira/personal-library-api) *(full-stack)* | Full-stack library app with deployed FastAPI + PostgreSQL backend and [React frontend](https://github.com/ilucasoliveira/personal-library-frontend) — auth, file upload, Google Books integration, PWA | FastAPI · PostgreSQL · React · Vite |
+| [Book Manager API](https://github.com/ilucasoliveira/book-manager) | CRUD API with Pydantic v2 validation, pagination, and HTTP Basic Auth | FastAPI · Pydantic v2 · Poetry |
+| [Python Exercises](https://github.com/ilucasoliveira/exercicios-de-fixacao-em-python) | Structured practice: contact agenda, grade analyzer, password validator, OOP battle system | Python · OOP |
 
 ---
 

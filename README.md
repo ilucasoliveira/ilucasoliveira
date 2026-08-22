@@ -32,7 +32,6 @@ Currently pursuing a B.Sc. in Computer Science and actively looking for **nation
 | **[Personal Library](https://github.com/ilucasoliveira/personal-library-api)** | Full-stack digital library with authentication, reading status, favorites, cover uploads and Google Books search. [React frontend](https://github.com/ilucasoliveira/personal-library-frontend) consuming a deployed FastAPI backend. | FastAPI · SQLAlchemy 2.0 · PostgreSQL · Alembic · React · Vite |
 | **[Movies API](https://github.com/ilucasoliveira/movies-api)** | Async API to track watched movies and series, with many-to-many genre relations and Redis cache-aside invalidated on every write. | FastAPI · async SQLAlchemy · PostgreSQL · Redis · Docker |
 | **[Book Manager API](https://github.com/ilucasoliveira/book-manager)** | Book catalog API with Redis caching, Celery background tasks and HTTP Basic Auth, fully containerized. | FastAPI · PostgreSQL · Redis · Celery · Docker |
-| **[Task Manager API](https://github.com/ilucasoliveira/task-manager-api)** | Task CRUD with pagination, partial updates and a Docker Compose setup with a persistent named volume. | FastAPI · SQLAlchemy 2.0 · PostgreSQL · Docker |
 
 
 ---

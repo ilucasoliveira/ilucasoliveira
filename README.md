@@ -10,7 +10,11 @@ Currently pursuing a B.Sc. in Computer Science and actively looking for **nation
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -25,9 +29,11 @@ Currently pursuing a B.Sc. in Computer Science and actively looking for **nation
 
 | Project | Description | Stack |
 |---|---|---|
-| [Personal Library](https://github.com/ilucasoliveira/personal-library-api) *(full-stack)* | Full-stack library app with deployed FastAPI + PostgreSQL backend and [React frontend](https://github.com/ilucasoliveira/personal-library-frontend) — auth, file upload, Google Books integration, PWA | FastAPI · PostgreSQL · React · Vite |
-| [Book Manager API](https://github.com/ilucasoliveira/book-manager) | CRUD API with Pydantic v2 validation, pagination, and HTTP Basic Auth | FastAPI · Pydantic v2 · Poetry |
-| [Python Exercises](https://github.com/ilucasoliveira/exercicios-de-fixacao-em-python) | Structured practice: contact agenda, grade analyzer, password validator, OOP battle system | Python · OOP |
+| **[Personal Library](https://github.com/ilucasoliveira/personal-library-api)** | Full-stack digital library with authentication, reading status, favorites, cover uploads and Google Books search. [React frontend](https://github.com/ilucasoliveira/personal-library-frontend) consuming a deployed FastAPI backend. | FastAPI · SQLAlchemy 2.0 · PostgreSQL · Alembic · React · Vite |
+| **[Movies API](https://github.com/ilucasoliveira/movies-api)** | Async API to track watched movies and series, with many-to-many genre relations and Redis cache-aside invalidated on every write. | FastAPI · async SQLAlchemy · PostgreSQL · Redis · Docker |
+| **[Book Manager API](https://github.com/ilucasoliveira/book-manager)** | Book catalog API with Redis caching, Celery background tasks and HTTP Basic Auth, fully containerized. | FastAPI · PostgreSQL · Redis · Celery · Docker |
+| **[Task Manager API](https://github.com/ilucasoliveira/task-manager-api)** | Task CRUD with pagination, partial updates and a Docker Compose setup with a persistent named volume. | FastAPI · SQLAlchemy 2.0 · PostgreSQL · Docker |
+
 
 ---
 

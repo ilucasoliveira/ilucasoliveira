@@ -1,8 +1,8 @@
-<img width="100%" alt="Lucas de Oliveira Pimentel, back-end Python developer" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0e18,55:7a6128,100:c9a84c&height=210&section=header&text=Lucas%20de%20Oliveira%20Pimentel&fontSize=44&fontColor=f2ead0&fontAlignY=36&desc=Back-end%20Python%20Developer%20%E2%80%A2%20FastAPI%20%E2%80%A2%20PostgreSQL%20%E2%80%A2%20Redis&descSize=18&descAlignY=56&animation=fadeIn" />
+<img width="100%" alt="Lucas de Oliveira Pimentel, full-stack Python developer with a back-end focus" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0e18,55:7a6128,100:c9a84c&height=210&section=header&text=Lucas%20de%20Oliveira%20Pimentel&fontSize=44&fontColor=f2ead0&fontAlignY=36&desc=Full-Stack%20Python%20Developer%20%E2%80%A2%20Back-end%20Focus&descSize=18&descAlignY=56&animation=fadeIn" />
 
 <div align="center">
 
-<img alt="Back-end Python developer. I build APIs and the React front ends that consume them. Open to remote work." src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3200&pause=900&color=C9A84C&center=true&vCenter=true&width=620&height=48&lines=Back-end+Python+Developer+%F0%9F%90%8D;REST+APIs+with+FastAPI%2C+PostgreSQL+%26+Redis;React+front+ends+that+consume+my+APIs;Open+to+remote+work+%F0%9F%8C%8E" />
+<img alt="Full-stack Python developer with a back-end focus. I build APIs with FastAPI, PostgreSQL and Redis, and the React front ends that consume them. Open to remote work." src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3200&pause=900&color=C9A84C&center=true&vCenter=true&width=620&height=48&lines=Full-Stack+Python+Developer+%F0%9F%90%8D;Back-end+focus%3A+FastAPI%2C+PostgreSQL+%26+Redis;React+front+ends+that+consume+my+APIs;Open+to+remote+work+%F0%9F%8C%8E" />
 
 <br/>
 
@@ -17,7 +17,7 @@
 
 ## 🧙‍♂️ About me
 
-- 🐍 **Back-end-focused Python developer** who also builds the **React** front ends for my APIs.
+- 🐍 **Full-stack Python developer with a back-end focus**: I design the APIs and build the **React** front ends that consume them.
 - 📍 Based in **Barbacena, MG, Brazil** · 🎓 Computer Science student at **UNIPAC** · 🌎 **open to remote work**.
 - 🔐 I like the parts that are easy to get wrong: **authentication**, **caching**, **data integrity** and **CI that blocks bad deploys**.
 - 📝 My project READMEs explain *why* things are built the way they are, trade-offs included.

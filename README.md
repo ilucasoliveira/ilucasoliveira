@@ -183,7 +183,7 @@ Record **buy and sell transactions** and get positions, average cost and profit 
 
 ## 🎓 Education
 
-- 🖥️ **B.Sc. in Computer Science**, UNIPAC Barbacena · *expected Dec 2027*
+- 🖥️ **B.Sc. in Computer Science**, UNA · *expected Dec 2027*
 - 🐍 **Full Stack Python**, EBAC · *May – Dec 2026, in progress*
 
 <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:c9a84c,45:7a6128,100:0b0e18&height=120&section=footer" />

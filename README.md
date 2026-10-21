@@ -18,7 +18,7 @@
 ## 🧙‍♂️ About me
 
 - 🐍 **Full-stack Python developer with a back-end focus**: I design the APIs and build the **React** front ends that consume them.
-- 📍 Based in **Barbacena, MG, Brazil** · 🎓 Computer Science student at **UNIPAC** · 🌎 **open to remote work**.
+- 📍 Based in **Barbacena, MG, Brazil** · 🎓 Computer Science student at **UNA** · 🌎 **open to remote work**.
 - 🔐 I like the parts that are easy to get wrong: **authentication**, **caching**, **data integrity** and **CI that blocks bad deploys**.
 - 📝 My project READMEs explain *why* things are built the way they are, trade-offs included.
 - 📊 Before code, I spent almost 5 years working remotely in **data quality**, where consistent data was the whole job.
